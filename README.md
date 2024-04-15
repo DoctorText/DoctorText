@@ -1,3 +1,3 @@
 Comrade
 
-C++,Python,Lua,easylanguage
+C++,Python,easylanguage
