@@ -1,3 +1,2 @@
-Comrade
-
-C++,Python,easylanguage
+Python, C++
+Swimmer
